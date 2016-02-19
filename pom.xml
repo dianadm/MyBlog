@@ -3,6 +3,10 @@
   <groupId>com.myblog</groupId>
   <artifactId>myBlog</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
   <name>My Blog</name>
+  <modules>
+  	<module>myBlog-core</module>
+  	<module>myBlog-application</module>
+  </modules>
 </project>
