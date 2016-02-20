@@ -8,5 +8,6 @@
   <modules>
   	<module>myBlog-core</module>
   	<module>myBlog-application</module>
+  	<module>myBlog-webapp</module>
   </modules>
 </project>
