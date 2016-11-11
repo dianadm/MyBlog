@@ -6,7 +6,7 @@
   <packaging>pom</packaging>
   <name>My Blog</name>
   <modules>
-  	<module>myBlog-core</module>
+  	<module>myBlog-domain</module>
   	<module>myBlog-application</module>
   	<module>myBlog-webapp</module>
   </modules>

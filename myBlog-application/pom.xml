@@ -10,7 +10,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.myBlog</groupId>
-			<artifactId>myBlog-core</artifactId>
+			<artifactId>myBlog-domain</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
