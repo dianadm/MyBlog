@@ -6,5 +6,5 @@
 		<artifactId>myBlog</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>myBlog-core</artifactId>
+	<artifactId>myBlog-domain</artifactId>
 </project>
