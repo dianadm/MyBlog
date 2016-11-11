@@ -9,8 +9,8 @@
 	<artifactId>myBlog-application</artifactId>
 	<dependencies>
 		<dependency>
-			<groupId>pl.kobietydokodu</groupId>
-			<artifactId>koty-domain</artifactId>
+			<groupId>com.myBlog</groupId>
+			<artifactId>myBlog-core</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
